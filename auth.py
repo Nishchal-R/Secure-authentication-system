@@ -1,3 +1,4 @@
+# auth.py
 # Authentication module for the secure user authentication system.
 # Handles user registration, login, password hashing, and user data persistence.
 
